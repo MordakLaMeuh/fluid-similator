@@ -11,3 +11,8 @@ If you are on a debian system
 Or an OSX system   
 `brew install sdl2`   
 `brew install sdl2_ttf`   
+
+### ScreenShoot n1
+![ALT](./screenshoots/01.jpg)
+### ScreenShoot n2
+![ALT](./screenshoots/02.jpg)
