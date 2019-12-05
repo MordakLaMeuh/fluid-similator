@@ -16,3 +16,9 @@ Or an OSX system
 ![ALT](./screenshoots/01.jpg)
 ### ScreenShoot n2
 ![ALT](./screenshoots/02.jpg)
+
+## Compilation   
+`make`
+
+## Execution   
+`./mod1`
